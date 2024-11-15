@@ -1,4 +1,4 @@
-# Hi, I'm Jason Michael McClain 👋
+# Hi, I'm Jason McClain 👋
 
 ## About Me
 - 🎓 Data Science major with an Astrophysics concentration at the University of Calgary
